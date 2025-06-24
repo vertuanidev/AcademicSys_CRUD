@@ -1,4 +1,4 @@
-# 🎓 AcademicSys_CRUD
+# 🎓 AcademicSys
 
 Sistema acadêmico web desenvolvido em Java utilizando Servlets e JSPs, com deploy no Apache Tomcat. Permite o gerenciamento de **alunos**, **cursos** e **disciplinas**, com persistência em arquivos `.txt` e estrutura de dados personalizada (lista duplamente encadeada).
 
