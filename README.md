@@ -78,12 +78,12 @@ webapp/
 - O `AppContextListener` carrega os dados na inicialização da aplicação.
 
 ---
+## 👨🏼‍🎓 Projeto Acadêmico (UCL - Universidade Centro Leste)
 
+- Projeto acadêmico desenvolvido na máteria de Algoritmos e Estruturas de Dados II
+
+---
 ## 👤 Autor
 
 **DEVictin**  
 [GitHub - @DEVictin](https://github.com/DEVictin)
-
-## 👨🏼‍🎓 Projeto Acadêmico (UCL - Universidade Centro Leste)
-
-- Projeto acadêmico desenvolvido na máteria de Algoritmos e Estruturas de Dados II
