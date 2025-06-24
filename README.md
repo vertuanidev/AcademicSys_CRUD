@@ -84,4 +84,6 @@ webapp/
 **DEVictin**  
 [GitHub - @DEVictin](https://github.com/DEVictin)
 
-## 👨‍💻 Projeto Acadêmico (UCL - Universidade Centro Leste)
+## 👨🏼‍🎓 Projeto Acadêmico (UCL - Universidade Centro Leste)
+
+- Projeto acadêmico desenvolvido na máteria de Algoritmos e Estruturas de Dados II
