@@ -85,5 +85,5 @@ webapp/
 ---
 ## 👤 Autor
 
-**DEVictin**  
+**vertuanidev**  
 [GitHub - @vertuanidev](https://github.com/vertuanidev)
